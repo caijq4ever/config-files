@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 16,
+    "window.zoomLevel": 0,
+    "breadcrumbs.enabled": true,
+    "workbench.panel.defaultLocation": "right",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "workbench.editor.enablePreview": false
+}
